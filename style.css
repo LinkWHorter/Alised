@@ -1,5 +1,13 @@
 body {
 	user-select: none;
+	overflow: auto;
+	overscroll-behavior-x: contain;
+	overscroll-behavior-y: contain;
+}
+
+scroll-container {
+	overscroll-behavior-x: contain;
+	overscroll-behavior-y: contain;
 }
 
 .mouth {
