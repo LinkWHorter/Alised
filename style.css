@@ -1,0 +1,97 @@
+body {
+	user-select: none;
+}
+
+.mouth {
+	opacity: 0;
+	top: 325px;
+	left: 630px;
+	z-index: 4;
+	position: fixed;
+	margin: 0 auto;
+}
+
+.thooth {
+	opacity: 0;
+	top: 315px;
+	left: 615px;
+	z-index: 5;
+	position: fixed;
+	margin: 0 auto;
+}
+
+.nosed {
+	top: 285px;
+	left: 640px;
+	z-index: 5;
+	position: fixed;
+	margin: 0 auto;
+}
+
+.carcas {
+	width: 100%;
+	margin: 0 auto;
+}
+
+.eyes {
+	z-index: 2;
+}
+
+.belics {
+	z-index: 1;
+}
+
+.layes {
+	z-index: 3;
+}
+
+.laybrove {
+	z-index: 4;
+}
+
+.image {
+	border: 1px solid black;
+	left: 350px;
+	position: fixed;
+	margin: 0 auto;
+	z-index: 3;
+}
+
+.belics {
+	top: 260px;
+	left: 575px;
+	position: fixed;
+	margin: 0 auto;
+}
+
+.eyes {
+	top: 268px;
+	left: 590px;
+	position: fixed;
+	margin: 0 auto;
+}
+
+.layes {
+	opacity: 0;
+	top: 214px;
+	left: 561px;
+	position: fixed;
+	margin: 0 auto;
+}
+
+.laybrove {
+	opacity: 0;
+	top: 221px;
+	left: 568px;
+	position: fixed;
+	margin: 0 auto;
+}
+
+.broves {
+	opacity: 0;
+	z-index: 3;
+	top: 243px;
+	left: 558px;
+	position: fixed;
+	margin: 0 auto;
+}
